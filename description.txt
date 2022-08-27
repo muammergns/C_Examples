@@ -1,0 +1,5 @@
+set PATH=E:\"example_path"\MinGW\bin;%PATH%
+
+bunu cmd kısmına yazmadan kabul etmiyor
+
+ayrıca ortam değişkenlerine E:\"example_path"\MinGW\bin eklenmeli
